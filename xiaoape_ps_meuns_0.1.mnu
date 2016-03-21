@@ -1,0 +1,172 @@
+﻿<?xml version ="1.0" encoding="UTF-8"?>
+<photoshop-menu-settings version="2" filename="$$$/FileName/Presets/MenuCustomization/xiaoape_ps_meuns_01=xiaoape_ps_meuns_0.1" modified="1">
+	<command kind="static" id="1520" parentMenuID="2" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1521" parentMenuID="2" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="37" parentMenuID="2" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1530" parentMenuID="2" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="34" parentMenuID="2" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1500" parentMenuID="2" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="7806" parentMenuID="76" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Render Video..." parentMenuID="76" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Zoomify..." parentMenuID="76" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1650" parentMenuID="2" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1169" parentMenuID="10" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Gang Scanner Auto" parentMenuID="10" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_0B71D221-F8CE-11d2-B21B-0008C75B322C" parentMenuID="10" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_8cba8cd6-cb66-11d1-bc43-0060b0a13dc4" parentMenuID="10" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_3caa3434-cb67-11d1-bc43-0060b0a13dc4" parentMenuID="10" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_9AA9D7D6-C209-494A-BED9-4E7D926DA69F" parentMenuID="10" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_9D3174CE-045C-4B87-B7AE-40D8C3319780" parentMenuID="10" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_0f9db13f-a772-4035-9020-840f0e5e2f02" parentMenuID="10" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_1F9021B1-5045-42E1-AE2A-7E504FAA8D50" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_8a761c74-f362-4a1b-a3f7-e779ab319a08" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_e805a6ee-6d75-4b62-b6fe-f5873b5fdf20" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_cf34b502-2013-4d07-8431-1dfd634ee0cd" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_B20FB700-B96A-4C10-B666-8C9B9DEF594E" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_391763DD-6716-4FF2-9C40-9CA6DC2FE696" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_6f1c2cf5-4a97-4e32-8f59-f5d7a087adef" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_808034C2-162D-481B-88D4-B3EF294EDE42" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_6F17BFA7-EFC8-40EA-B850-7B95ED8EA713" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_08E8421B-976E-4E81-A964-AD754EDB4381" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Script_20489C30-9DB1-4DAD-B685-513A8C0543B9" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1676" parentMenuID="109" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1137" parentMenuID="2" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="177" parentMenuID="2" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="3392" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="3393" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2220" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2221" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1237" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1238" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1029" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1038" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="5624" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2910" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1215" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2344" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1212" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1213" parentMenuID="3" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1165" parentMenuID="5" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1800" parentMenuID="5" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1808" parentMenuID="5" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1810" parentMenuID="5" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1817" parentMenuID="5" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1153" parentMenuID="5" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1900" parentMenuID="5" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="7801" parentMenuID="5" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="7800" parentMenuID="5" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1093" parentMenuID="5" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2821" parentMenuID="5" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2840" parentMenuID="200" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2850" parentMenuID="200" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1942" parentMenuID="49" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2976" parentMenuID="49" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2956" parentMenuID="49" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1305" parentMenuID="32" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1313" parentMenuID="32" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1302" parentMenuID="32" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1304" parentMenuID="32" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1312" parentMenuID="32" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1335" parentMenuID="32" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1336" parentMenuID="32" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1337" parentMenuID="32" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1303" parentMenuID="32" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1301" parentMenuID="32" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1397" parentMenuID="4" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6433" parentMenuID="123" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6350" parentMenuID="4" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="5217" parentMenuID="4" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2961" parentMenuID="4" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2960" parentMenuID="4" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2700" parentMenuID="4" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="3345" parentMenuID="207" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="3346" parentMenuID="207" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="3347" parentMenuID="207" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="3348" parentMenuID="207" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="9106" parentMenuID="23" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="9131" parentMenuID="213" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2982" parentMenuID="7" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1152" parentMenuID="7" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1115" parentMenuID="7" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2600" parentMenuID="7" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1033" parentMenuID="7" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1034" parentMenuID="7" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1971" parentMenuID="7" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="5069" parentMenuID="7" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1200" parentMenuID="7" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1281" parentMenuID="7" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6508" parentMenuID="7" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1019" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Filter Gallery" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Wide Angle Correction" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Lens Correction" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Liquify" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Oil Paint..." parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Vanishing Point" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2225" parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2224" parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2226" parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Average" parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Blur" parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Blur More" parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Box Blur..." parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Lens Blur..." parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Radial Blur…" parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Shape Blur..." parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Smart Blur..." parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Surface Blur..." parentMenuID="4301" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Filter_SCN_Distort" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Despeckle" parentMenuID="4305" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="SCN_Dust and Scratches" parentMenuID="4305" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Median..." parentMenuID="4305" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Reduce Noise..." parentMenuID="4305" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Filter_SCN_Pixelate" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Fibers..." parentMenuID="4307" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Lens Flare..." parentMenuID="4307" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Lighting Effects..." parentMenuID="4307" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Filter_SCN_Sharpen" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Filter_SCN_Stylize" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Filter_SCN_Video" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Filter_SCN_Other" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Filter_Digimarc" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6441" parentMenuID="6" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6377" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6505" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6507" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6508" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6546" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6464" parentMenuID="124" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6467" parentMenuID="124" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6509" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6515" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6514" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6544" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6501" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6462" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6496" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6369" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6365" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6473" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6503" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6516" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6317" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6545" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6502" parentMenuID="75" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="2800" parentMenuID="9" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1105" parentMenuID="9" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1106" parentMenuID="9" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1201" parentMenuID="9" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="1112" parentMenuID="9" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="6400" parentMenuID="9" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Workspaces_New in CS 6" parentMenuID="66" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Workspaces_3D" parentMenuID="66" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="15003" parentMenuID="64" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="15005" parentMenuID="64" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="15004" parentMenuID="64" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Product Registration..." parentMenuID="64" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Deactivate..." parentMenuID="64" menuType="0" hidden="1" color="0" />
+	<command kind="dynamic" name="Updates..." parentMenuID="64" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="4050" parentMenuID="64" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="4054" parentMenuID="64" menuType="0" hidden="1" color="0" />
+	<command kind="static" id="4009" parentMenuID="64" menuType="0" hidden="1" color="0" />
+</photoshop-menu-settings>
